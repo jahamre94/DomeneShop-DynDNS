@@ -21,7 +21,7 @@ token: "your-token-here"
 secret: "your-secret-here"
 domains:
   - "test.example.no"
-  - "sub.example.com
+  - "sub.example.com"
 ````
 
 
