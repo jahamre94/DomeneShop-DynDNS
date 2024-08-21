@@ -8,6 +8,8 @@ Get api key:
 https://domene.shop/admin?view=api
 
 
+Domeneshop api is currently in v0 and beta, so this may break without notice.
+
 ## How to run
 all parameters can be passed into the app:
 domeneshop-ddns-amd64 -domains=test.example.com,subdomain2.example.no -token=<token> -secret=<secret>
