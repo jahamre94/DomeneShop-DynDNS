@@ -1,10 +1,10 @@
 # DomeneShop-DynDNS
 This is a DynDNS application for Domeneshop
 
-its intended to run as a cronjob,  domeneshop-ddns-amd64 is compiled for Linux amd64
-one or many domains are supported, it the record does not exist, it will be created to your public IP.
+its intended to run as a cronjob,  domeneshop-ddns-amd64 is compiled for Linux amd64.
+one or many domains are supported, if the record does not exist, it will be created for your public IP.
 
-Get api key:
+Get api key from domene shop:
 https://domene.shop/admin?view=api
 
 
